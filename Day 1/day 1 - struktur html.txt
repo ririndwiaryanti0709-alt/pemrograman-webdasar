@@ -1,0 +1,10 @@
+<!--Struktur dasar HTML--!>
+<!doctype html>
+<html>
+<head>
+  <title>Struktur Html/title>
+</head>
+<body>
+<p>hallo semuanya perkenalkan saya Ririn dwi aryanti</p> 	
+</body>
+</html>
